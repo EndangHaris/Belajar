@@ -1,6 +1,7 @@
 Nama : Juliana Syifa Listiany <br>
 NIM : A2.1800153 <br>
 Kelas : TI - IV E <br>
+CONTOH UPLOAD <br>
 
 <tr>
      <!-- Baris 2 Max 7 Akun -->
